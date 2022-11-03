@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <table>
+            <tr>
+                <td><label for="anio">AÑO</label></td>
+                <td>
+                    <select name="anio" id="anio">
+                        <option value="0" selected disabled>----Seleccione Año----</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="artista">ARTISTA</label></td>
+                <td><input type="text" name="artista" id="artista"></td>
+            </tr>
+            <tr>
+                <td><label for="titulo">TITULO</label></td>
+                <td><input type="text" name="titulo" id="titulo"></td>
+            </tr>
+        </table>
+    </form>
+    <div id="visor"></div>
+    <script src="app.js"></script>
+</body>
+</html>

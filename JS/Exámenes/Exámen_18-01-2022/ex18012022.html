@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Convocatoria Libre DWEC</title>
+    <style>
+        #caja {
+            margin-top: 30px;
+            height: 300px;
+            border: solid;
+            overflow: auto
+        }
+
+        .celdas {
+            padding: 5px;
+            margin: 5px;
+            border: solid 2px
+        }
+    </style>
+    <script src="libros.js"></script>
+
+</head>
+
+<body style="background-color: gray;">
+    <div id="formulario">
+        <form>
+            <table>
+                <tr>
+                    <td>TEMA</td>
+                    <td colspan="2">
+                        <select id="losTemas">
+                            <option>--Selecciona--</option>
+                        </select>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>TITULO</td>
+                    <td><input type="text" required id="titulo"></td>
+                    <td><input type="button" value="buscar" id="buscatitulo"></td>
+
+                </tr>
+
+
+            </table>
+        </form>
+    </div>
+    <div id="caja">
+
+    </div>
+    <script src="examen.js"></script>
+
+</body>
+
+</html>

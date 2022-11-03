@@ -1,0 +1,56 @@
+Ejercicios:
+1. Crear un array de números de forma interactiva mediante la función prompt. Asegurarse de que los
+elementos del array son números.
+2. Crear un array de 10 números desordenados y mostrar por la consola del navegador el mayor y el
+menor.
+
+3. Crear una estructura de decisión que permita identificar la talla de una prenda de ropa a partir de las
+tallas europeas. Los valores posibles de las tallas europeas serían XXXL, XXL, XL, L, M, S y XS y
+la talla esperada sería Extragrande=XXXL,XXL,XL, Grande=L, Mediana=M, Pequeña=S,
+Extrepequeña=XS. Introduce mediante un prompt una talla europea y muestra en consola la talla de
+prenda.
+Haz el ejercicio utilizando switch e if anidado y verifica cual tarda menos en ejecutarse. Utiliza
+console.time() y console.timeEnd()
+4. Crear una matriz de números y mostrar por la consola o por el documento las coordenadas de las
+posiciones que tengan un número impar. Recorre el array usando las estructuras while y for y
+comprueba cual tiene mejor rendimiento usando la consola como en el caso anterior.
+5. Realizar una página con un script que calcule el valor de la letra de un número de identificación fiscal
+(NIF). El algoritmo es el siguiente:
+• Comprobar que el número está entre 0 y 99999999
+• Calcula el resto de la división entera del número de DNI y el número 23
+• Selecciona la letra dentro del array de letras siguiente usando como índice el valor obtenido del paso
+anterior:
+var letras = ['T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E', 'T'];
+Esto es, si el resto de la división es 0, la letra del DNI es la T, si el resto es 1 la letra es la R, etc.
+El script tiene que solicitar un número al usuario. Para solicitar el número se puede usar la función prompt():
+var numero = prompt("Introduce tu número de DNI (sin la letra)");
+Tener en cuenta que prompt devuelve un string
+Si el número no es correcto, mostrar un mensaje de error
+Si fuera correcto, se pasará como argumento a una función que calculará la letra y devolverá el NIF
+completo al script. El script mostrará el NIF por consola, alert o documento.
+6.-La Sociedad Española para el Estudio de la Obesidad define el IMC (índice de masa corporal) de una
+persona mediante la fórmula:
+IMC = Peso (kg) / altura (m) 2
+Ejemplo: 67 Kg y 1,80 m. de altura
+IMC=67/(1,80)2
+
+= 20,68, Peso normal
+
+Cotejando el resultado con la siguiente tabla se determina el grado de obesidad de la persona:
+< 18,5 Peso insuficiente
+18,5 - <25 Normal
+25 - <27 Sobrepeso grado I
+27 - <30 Sobrepeso grado II
+30- <35 Obesidad I
+35 - <40 Obesidad II
+
+40 - <50 Obesidad III (mórbida)
+> 50 Obesidad III (extrema)
+Introducir los datos de altura y peso mediante la función prompt. Validar que los datos sean numéricos.
+Obtener el IMC mediante una función a la que se le pasen el peso y la altura. Mostrará en la consola del
+navegador el IMC y un texto indicando el grado de obesidad : console.log(IMC).
+7.-Escribe un programa que verifique si un número es primo. Un número es primo si solo es divisible por 1 y
+por si mismo. Introducir el número mediante un prompt y mostrar el mensaje por consola:
+n es primo o
+n es divisible por x y z ....
+8.-Adapta el ejercicio anterior para

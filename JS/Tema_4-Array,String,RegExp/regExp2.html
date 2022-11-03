@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RegExp 2</title>
+</head>
+<body>
+<!--2.-Crea un función que acepte como parámetro una cadena de caracteres. La función debe devolver una
+cadena de texto de entre las siguientes:
+    “Es un email”,”Es un NIF”, ”Es un telefono”, “Está en blanco”
+    • Para verificar el email tomar el ejercicio anterior
+    • Para verificar un teléfono debe tener 9 dígitos numéricos
+    • Para verificar un NIF debe tener 8 o 9 caracteres numéricos y una letra
+    • Para verificar que está en blanco, puede no haber nada o espacios en blanco
+El mensaje será producto de la verificación de la cadena argumento contra una expresión regular.-->
+    <script>
+        let text = prompt("Porfavor, introduzca una dirección de correo, un NIF o un número de telefono:");
+        function verificar(str) {
+            let RegExp_Nu = /^[\d]{3}[-]*([\d]{2}[-]*){2}[\d]{2}$/;
+            let RegExp_Ni = /^[\d]{7,8}[a-zA-Z]$/;
+            let RegExp_Em = /^[\w]+@{1}[\w]+\.+[a-z]{2,3}$/;
+            let RegExp_Sn = /^\s+$/;
+            switch (true) {
+                case RegExp_Em.test(str):
+                    alert ("El texto introducido es un correo.");
+                        break;
+                case RegExp_Ni.test(str):
+                    alert ("El texto introducido es un NIF.");
+                        break;
+                case RegExp_Nu.test(str):
+                    alert ("El texto introducido es un número de teléfono.");
+                        break;  
+                case  RegExp_Sn.test(str):
+                    alert ("El texto introducido no es válido o es un espacio en blanco.");
+                        break;
+                default:
+                    alert ("Error #404 - RegExp Not Found");
+                        break;
+            }
+        }
+        verificar(text);
+    </script>
+</body>
+</html>

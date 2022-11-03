@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Josefin Sans;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #08AAFF;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://media.giphy.com/avatars/shazam/zulQnovzCEzj.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 15%;
+}
+
+form > div {
+    background-color: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 20px 150px;
+    border-radius: 50px;
+    border: 3px solid white;
+    font-size: 20px;
+}
+
+select {
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+
+#visor {
+    display : none;
+    border-radius: 25px;
+    width: 60em;
+    height: 75%;
+    margin: auto;
+    margin-top: 5px;
+    background-color: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+    overflow-x: hidden;
+}
+
+#visor::-webkit-scrollbar {
+    display: none;
+}
+
+#visor > table {
+    border-collapse: collapse;
+    position: relative;
+}
+
+#visor > table tr:hover {
+    background: rgba(224, 224, 224, 0.3);
+}
+
+#visor > table td {
+    padding: 20px 30px;
+    text-align: left;
+    border-top: 1px solid white;
+}
+
+#visor > table th {
+    padding: 20px 30px;
+    text-align: left;
+    position: sticky;
+    top: 0;
+    background: rgb(255, 255, 255);
+}
+
+.link {
+    height: 40px;
+    border-radius: 50px;
+    position: absolute;
+    bottom: 5%;
+    left: 3%;
+}
+
+.link > img {
+    height: 40px;
+}

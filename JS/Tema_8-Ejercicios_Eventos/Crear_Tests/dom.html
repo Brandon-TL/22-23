@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Exams Creator</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: rgb(145, 145, 145);
+        }
+
+        textarea {
+            font-family: sans-serif;
+            font-size: 15px;
+        }
+
+        input[type="text"] {
+            width: 50em;
+        }
+
+        button {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1> Crear exámen tipo test</h1>
+    <form>
+        <p id="titulo"></p>
+        <textarea placeholder="Introduzca el enunciado de la pregunta" id="preg" cols="90" rows="3" required></textarea><br>
+        <p>
+            A: <input placeholder="Introduzca respuesta A" type="text" id="enunA" required><input type="radio" name="respuesta" value="A"><br>
+            B: <input placeholder="Introduzca respuesta B" type="text" id="enunB" required><input type="radio" name="respuesta" value="B"><br>
+            C: <input placeholder="Introduzca respuesta C" type="text" id="enunC" required><input type="radio" name="respuesta" value="C"><br>
+            D: <input placeholder="Introduzca respuesta D" type="text" id="enunD" required><input type="radio" name="respuesta" value="D"><br>
+        </p>
+        <button id="crearPregunta">AGREGAR PREGUNTA</button>
+        <button onclick="form.reset();">LIMPIAR CAMPOS</button>
+        <button >PROBAR EXAMEN</button>
+    </form>
+
+    <p id="visualizar"></p>
+
+    <script src="dom.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RegExp 1</title>
+</head>
+<body>
+<!--1.-Introducir mediante un prompt un correo electrónico y verificar que está bien escrito de acuerdo a los
+siguientes criterios.
+    • Debe comenzar con cualquier carácter de los que por lo menos debe haber uno
+    • Debe contener un caracter @
+    • Despues de la @ debe haber un carácter al menos
+    • Después un .
+    • Después debe haber entre 2 y 3 caracteres-->
+    <script>
+        let email = prompt("Porfavor, introduzca una dirección de correo:");
+        function verificar(mail) {
+            RegExp = /^[\w]+@{1}[\w]+\.+[a-z]{2,3}$/;
+            return RegExp.test(mail);
+        }
+        if(verificar(email))
+        {
+            alert("El correo esta correctamente formulado.");
+        } else {
+            alert("El correo introducido no esta bien escrito.");
+        }
+        </script>
+</body>
+</html>

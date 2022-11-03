@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="http://code.jquery.com/jquery-3.6.0.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <p>Ejemplos</p>
+    <div>
+        <div id="menu">
+            <p class="sel">Capítulo 1</p>
+            <div class="item">
+                <a href="#">Punto 1</a>
+                <a href="#">Punto 2</a>
+                <a href="#">Punto 3</a>
+            </div>
+            <p class="sel">Capítulo 2</p>
+            <div class="item">
+                <a href="#">Punto 1</a>
+                <a href="#">Punto 2</a>
+                <a href="#">Punto 3</a>
+            </div>
+            <p class="sel">Capítulo 3</p>
+            <div class="item">
+                <a href="#">Punto 1</a>
+                <a href="#">Punto 2</a>
+                <a href="#">Punto 3</a>
+
+            </div>
+        </div>
+    </div>
+    <form>
+        <span> <input type="checkbox" name="box" checked> Elección 1</span><br>
+        <span><input type="checkbox" name="box"> Elección 2 </span><br>
+        <span><input type="checkbox" name="box"> Elección 3 </span><br>
+        <span><input type="checkbox" name="box" checked> Elección 4 </span><br>
+        <span><input type="checkbox" name="box"> Elección 5</span><br>
+        <span><input type="radio">Radio 1</span>
+        <span><input type="radio">Radio 2</span>
+        <div>
+            <input type="button" id="test1" value="Test checkbox">
+            <input type="button" id="test2" value="cambiar clases">
+            <input type="button" id="test3" value="menguar tamaño">
+            <input type="button" id="test4" value="medrar tamaño">
+        </div>
+    </form>
+    
+    <script>
+        // $(".sel").text("contenido de todos los parrafos .sel");
+        // console.log($(".sel").html());
+        console.log($('input:checked'));
+    </script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../../jquery-3.6.0.js"></script>
+    <title>Document</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        td {
+            border: 1px solid black;
+            width: 5em;
+            height: 5em;
+            text-align: center;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <table id="cruz">
+        <tr>
+            <td>A</td>
+            <td>B</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+        </tr>
+        <tr>
+            <td>G</td>
+            <td>H</td>
+            <td>I</td>
+        </tr>
+    </table>
+
+    <script>
+        $('table')
+            .on('mousedown', 'td', function (e) {
+                let lugar = $(this).index();
+                $(this).css({'background':'lightgreen'});
+                $(this).prev().css({'background':'lightblue'}).end()
+                    .next().css({'background':'lightblue'}).end()
+                    .parent().prev().children().eq(lugar).css({'background':'lightblue'}).end().end().end().end()
+                    .parent().next().children().eq(lugar).css({'background':'lightblue'});
+            })
+            .on('mouseup', 'td', function (e) {
+                $(this).css({'background':'pink'});
+            });
+    </script>
+</body>
+</html>

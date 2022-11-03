@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2</title>
+</head>
+<body>
+    <!-- Crear un array de 10 números desordenados y mostrar por la consola del navegador el mayor y el
+menor. -->
+    <script>
+        let arrayNumeros = [];
+        let max = min = 0;
+        for (let i = 0; i < 10; i++) {
+            arrayNumeros[i] = prompt("Escriba diez numeros al azar:");
+            if (isNaN(arrayNumeros[i])) {
+                i--;
+            }
+            console.log(arrayNumeros[i]);
+        }
+        console.log('Array: ' + arrayNumeros.toString());
+        console.log('Max: ' + Math.max(...arrayNumeros) + ', Min: ' + Math.min(...arrayNumeros));
+    </script>
+</body>
+</html>

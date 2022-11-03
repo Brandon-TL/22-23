@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arrays 3</title>
+</head>
+<body>
+<!--Simular una bonoloto automática. Crear 6 números aleatorios del 1 al 49 sin repetirse . Guardar los números
+en un array. Esto será la apuesta.
+
+De la misma manera, crear otro array con la combinación ganadora y el complementario.
+
+Comparar la combinación ganadora con la apuesta. Mostrar en un alert : la apuesta, la combinación
+ganadora y los aciertos. El complementario solo aparecerá como acierto en caso de que tenga además 5
+aciertos de la combinación ganadora.
+    • La comprobación de la existencia de un número acertado dentro de la combinación ganadora se
+    realizará con alguno de los métodos de Array que utilizan un callback.
+    • Utilizar los métodos Math.random() y Math.floor() para la obtención del número aleatorio.-->
+    <script>
+        let winner = rand();
+        let bet = rand();
+
+        function rand() {
+            let random = [];//Array de numeros aleatorios
+            let used = [];//Array de numeros usados en el array de numeros aleatorios
+            let j = 0;//Asignamos la posicion del siguinte valor del array used[]
+            for (let i = 0; i<6; i++) {//Bucle que se repetirá 6 veces
+                random[i] = Math.floor(Math.random() * (50 - 1)) + 1;//Dar un valor entre 1 y 49 a...
+                //...la posicion i del array random[] (6 veces)
+                if (i>0) {//Nos realizará la comprobación de repetidos hasta que random[] tenga al menos dos valores
+                    for (let k = 0;k < used.length; k++) {//Bucle que recorrerá el array used[]
+                        if (random[i] === used[k]) {//Si el nuevo valor de random[] es igual a algunos de los 
+                            //valores de used[]...
+                            do {
+                                random[i] = Math.floor(Math.random() * (50 - 1)) + 1;//...asigna un nuevo valor a random[]
+                            } while (used[k] === random[i]);//no salir del bucle hasta que el nuevo valor de random[] no
+                            //deje de coincidir con cualquiera de los valores de used[]
+                        }
+                    
+                    }
+                }
+                used[j] = random[i];//Introducir el nuevo valor no repetido de random[] en el array used[]
+                j++;//"Seleccionamos" la siguiente posición de used[] en la cual introduciremos el siguiente valor
+                //no usado que tome random[]
+            }
+            return random;
+        }
+
+        let extra = Math.floor(Math.random() * (50 - 1)) + 1;//Número complementario
+        
+        function compare(arrayW, arrayB) {
+            let hits = 0;
+            for (let l = 0;l < arrayW.length; l++) {//comparar todos los valores del array ganador...
+                for (let m = 0;m < arrayB.length; m++) {//.. con todos los valores del array apuesta
+                    if (arrayW[l] === arrayB[m]) {
+                        hits++;
+                    }
+                }
+            }
+            if (hits>4) {//Al superar los cuatro aciertos normales...
+                for (let n = 0;n < arrayB.length; n++) {
+                    if (arrayB[n] === extra) {
+                        hits++;//...el número complementario contará como un acierto más
+                    }
+                }
+            }
+            return hits;
+        }
+
+        alert ("Bet numbers:"+"\n"+bet+
+                "\nWinner bet:"+"\n"+winner+"  C: "+extra+
+                "\nCorrect numbers:"+"\n"+compare(winner, bet));
+    </script>
+</body>
+</html>

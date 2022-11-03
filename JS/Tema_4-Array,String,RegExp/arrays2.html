@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arrays 2</title>
+</head>
+<body>
+<!--Partiendo del mismo array que el ejercicio anterior, ordenar sus elementos de forma que los pares ocupen las
+primeras posiciones.-->
+    <script>
+        let arr = [1,5,2,7,3,2,4,5,8,7,3,4,5,6,7,3,8,4,1];
+        function newOrder(array) {
+            array.sort();
+            let pos = 0;
+            for (let i=0; i < array.length; i++) {
+                if (array[i]%2 == 0) {
+                    let vAux = array[pos];//Asignamos el valor de la posicion que ocupara el siguiente
+                    //numero par a otra variable para no perder dicho valor en el intercambio
+                    array[pos] = array[i];//Asignamos el valor del siguiente numero par encontrado
+                    //a una posicion a la que aun no le hayamos asignado un valor par
+                    pos++;//Aumentamos en 1 la posicion que ocupara el siguiente numero par
+                    array[i] = vAux;//Colocamos el elemento que se encontraba en la posicion del nuevo
+                    //número par encontrado en la posición de este mismo
+                }
+            }
+            return array;
+        }
+        alert ("Unordered array:"+"\n"+arr+
+                "\nOrdered Array:"+"\n"+arr.sort()+
+                "\nNew ordered array:"+"\n"+newOrder(arr));
+    </script>
+</body>
+</html>

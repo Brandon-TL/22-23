@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 1</title>
+    <style>
+        button {
+            border: 3px solid darkgray;
+            background: white;
+            cursor: pointer;
+            padding: 5px 20px;
+            font-size: 20px;
+            font-weight: bold;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        #message {
+            visibility: hidden;
+            border: 2px solid red;
+            border-radius: 15px;
+            padding: 1px 10px;
+            width:fit-content;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><button type="button" id="pulsa">PULSAR</button></td>
+        </tr>
+    </table>
+    <div id="message">Mensaje de ayuda</div>
+    <script>
+        let pulsa = document.querySelector("#pulsa");
+        let msg = document.querySelector("#message");
+
+        pulsa.addEventListener("mousedown", function(event) {
+            this.innerText = 'PULSADO';
+            this.style.background = "black";
+            this.style.color = "white";
+            this.style.border = "3px solid lightgray";
+            msg.style.visibility = "hidden";
+        });
+
+        pulsa.addEventListener("mouseup", function(event) {
+            this.innerHTML = 'PULSAR';
+            this.style.background = "white";
+            this.style.color = "black";
+            this.style.border = "3px solid darkgray";
+        });
+
+        pulsa.addEventListener("mouseover", function(event) {
+            msg.style.visibility = "visible";
+        });
+
+        pulsa.addEventListener("mousemove", function(event) {
+            msg.style.marginTop = (event.clientY*5) + "px";
+            msg.style.marginLeft = (event.clientX*5)  + "px";
+        });
+
+        pulsa.addEventListener("mouseout", function(event) {
+            msg.style.visibility = "hidden";
+        });
+    </script>
+</body>
+</html>

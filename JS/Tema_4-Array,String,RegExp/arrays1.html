@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arrays 1</title>
+</head>
+<body>
+</body>
+<!--Partiendo del siguiente array [1,5,2,7,3,2,4,5,8,7,3,4,5,6,7,3,8,4,1] ordénalo y que no hay elementos
+repetidos.-->
+    <script>
+        let arr = [1,5,2,7,3,2,4,5,8,7,3,4,5,6,7,3,8,4,1];
+        let deleted = [];//Array para almacenar los numero eliminados
+        function delDup(array) {
+            array.sort();//Oredenar numeros por unicode
+            let pos = 0;//Posicion que ocupan el el array deleted[] los numeros eliminiados
+            for (let i=0; i < array.length; i++) {
+                do {
+                    if (array[i+1] === array[i]) {//Si un elemento (i) coincide con el siguiente (i+1)...
+                        deleted[pos] = array.splice(i+1, 1);//...almaceno el elemento en deleted[]
+                        pos++;//"Selecciono" la siguiente posición para guardar en deleted[]
+                    }
+                } while (array[i] === array[i+1]);//Repetir hasta que el elemento i no coincida con su siguiente
+            }
+            return array;
+        }
+        alert ("Unordered array:"+"\n"+arr+
+                "\nOrdered Array:"+"\n"+arr.sort()+
+                "\nOrdered array without duplicated numbers:"+"\n"+delDup(arr)+
+                "\nDeleted numbers: "+"\n"+deleted);
+    </script>
+</body>
+</html>

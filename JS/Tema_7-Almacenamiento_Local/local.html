@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="local.js"></script>
+    <link rel="stylesheet" href="local.css">
+    <title>Almacenamiento Local</title>
+</head>
+<body>
+    <form>
+        <div class="title">
+            INFORMACION PERSONAL
+        </div>
+        <div class="inputs">
+            <table>
+                <tr>
+                    <td><label for="nombre">Nombre</label></td>
+                </tr>
+                <tr>
+                    <td><input type="text" class="limpiar" id="nombre"></td>
+                </tr>
+            </table>
+        </div>
+        <div class="title">
+            DIRECCION
+        </div>
+        <div class="inputs">
+            <table>
+                <tr>
+                    <td><label for="calle">Calle,nº,piso</label></td>
+                    <td><label for="poblacion">Población</label></td>
+                    <td><label for="provincia">Provincia</label></td>
+                </tr>
+                <tr>
+                    <td><input type="text" class="limpiar" id="calle"></td>
+                    <td><input type="text" class="limpiar" id="poblacion"></td>
+                    <td><input type="text" class="limpiar" id="provincia"></td>
+                </tr>
+            </table>
+        </div>
+        <div class="title">
+            TELÉFONOS
+        </div>
+        <div class="inputs">
+            <table>
+                <tr>
+                    <td><label for="movil">Móvil</label></td>
+                    <td><label for="casa">Casa</label></td>
+                    <td><label for="trabajo">Trabajo</label></td>
+                </tr>
+                <tr>
+                    <td><input type="number" class="limpiar" id="movil"></td>
+                    <td><input type="number" class="limpiar" id="casa"></td>
+                    <td><input type="number" class="limpiar" id="trabajo"></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+    <br>
+    <button type="button" id="agregarDatos">AGREGAR DATOS</button>
+    <button type="button" id="buscarDatos">BUSCAR</button>
+    <br>
+    <p id="info"></p>
+</body>
+</html>

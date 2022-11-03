@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strings 2</title>
+</head>
+</body>
+<!--2.-Dispongo del nombre de una persona con el siguiente formato:
+Apellido1 Apellido2, Nombre
+Crear una función que acepte una cadena con este formato y que me devuelva otra cadena con el nombre
+en formato: Nombre Apellido1 Apellido2-->
+    <script>
+        let name = prompt("Escriba su nombre siguiendo el formato (Apellido1 Apellido2, Nombre):");
+        function reName(str) {
+            let parts = str.split(/ |, /);
+            let surName1 = parts[0];
+            let surName2 = parts[1];
+            let name = parts[2];
+            let fullName = name+" "+surName1+" "+surName2;
+            alert (fullName);
+        }
+        reName(name);
+    </script>
+</body>
+</html>

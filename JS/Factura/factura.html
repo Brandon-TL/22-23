@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="factura.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>FACTURA</h1>
+    <fieldset>
+        <legend>DATOS PERSONALES</legend>
+        Tipo de cliente:&emsp;
+            <label for="socio">Socio </label><input type="radio" name="cliente" id="socio" onclick="socio()">&emsp;
+            <label for="nuevo">No socio </label><input type="radio" name="cliente" id="nuevo" onclick="nuevo()">
+            <p id="tipo"></p>
+    </fieldset>
+    <br>
+    <fieldset>
+        <legend>DATOS DE PRODUCTO</legend>
+        <table>
+            <tr>
+                <td><label for="nombrep">Nombre:</label></td>
+                <td><input type="text" id="nombrep"></td>
+            </tr>
+            <tr>
+                <td><label for="precio">Precio:</label></td>
+                <td><input type="number" id="precio" min="0"></td>
+            </tr>
+            <tr>
+                <td><label for="cantidad">Cantidad:</label></td>
+                <td><input type="number" id="cantidad" min="1"></td>
+            </tr>
+        </table>
+    </fieldset>
+    
+        <br><button type="button" onclick="ejecutar()"><strong>COMPRAR</strong></button>
+    
+    <script>
+        function ejecutar() {
+            let socio = document.getElementById("socio").value;
+            let nuevo = document.getElementById("nuevo").value;
+            let nombre = document.getElementById("nombre").value;
+            let apellidos = document.getElementById("apellidos").value;
+            let nif = document.getElementById("nif").value;
+            let direccion = document.getElementById("direccion").value;
+            let numero = document.getElementById("numero").value;
+            let email = document.getElementById("email").value;
+            let nombrep = document.getElementById("nombrep").value;
+            let precio = document.getElementById("precio").value;
+            let cantidad = document.getElementById("let").value;
+            
+            //Continuará...
+
+            switch (true) {
+                case !socio && !nuevo:
+                    alert ("Seleccione tipo de cliente");
+                    exit();
+            }
+
+
+
+        }
+
+        function socio() {
+            let cadena = "<table>";
+            cadena += `<tr><td><label for='nif'>DNI/NIF:</label></td><td><input type='text' id='nif'></td></tr>`;
+            cadena += "<tr><td></td><td><button type='button' onclick='unSelect()''>CANCELAR</button></td></tr>";
+            cadena += "</table>";
+            document.getElementById("tipo").innerHTML = cadena; 
+        }
+
+        function nuevo() {
+            let cadena = "<table>";
+            cadena += `<tr><td><label for='nombre'>Nombre:</label></td><td><input type='text' id='nombre'></td></tr>`;
+            cadena += `<tr><td><label for='apellidos'>Apellidos:</label></td><td><input type='text' id='apellidos'></td></tr>`;
+            cadena += `<tr><td><label for='nif'>DNI/NIF:</label></td><td><input type='text' id='nif'></td></tr>`;
+            cadena += `<tr><td><label for='direccion'>Direccion:</label></td><td><input type='text' id='direccion'></td></tr>`;
+            cadena += `<tr><td><label for='numero'>Número:</label></td><td><input type='text' id='numero'></td></tr>`;
+            cadena += `<tr><td><label for='email'>E-mail:</label></td><td><input type='email' id='email'></td></tr>`;
+            cadena += "<tr><td></td><td><button type='button' onclick='unSelect()''>CANCELAR</button></td></tr>";
+            cadena += "</table>";
+            document.getElementById("tipo").innerHTML = cadena;
+        }
+
+        function unSelect() {
+            document.getElementById("socio").checked = false;
+            document.getElementById("nuevo").checked = false;
+            document.getElementById("tipo").innerHTML = "";
+        }
+    </script>
+</body>
+</html>

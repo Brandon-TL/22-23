@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2</title>
+</head>
+<body>
+    <!-- Crear una estructura de decisión que permita identificar la talla de una prenda de ropa a partir de las
+tallas europeas. Los valores posibles de las tallas europeas serían XXXL, XXL, XL, L, M, S y XS y
+la talla esperada sería Extragrande=XXXL,XXL,XL, Grande=L, Mediana=M, Pequeña=S,
+Extrepequeña=XS. Introduce mediante un prompt una talla europea y muestra en consola la talla de
+prenda. -->
+    <script>
+        let eu = prompt("Escriba una talla (XXXL, XXL, XL, L, M, S, XS): ");
+        let talla;
+        switch (eu) {
+            case 'XXXL':
+            case 'XXL': 
+            case 'XL': 
+                talla = 'Extragrande';
+            case 'L': 
+                talla = 'Grande';
+            case 'M': 
+                talla = 'Mediana';
+            case 'S': 
+                talla = 'Pequeña';
+            case 'XS': 
+                talla = 'Extrepequeña';
+                default: 
+                talla = ' -- no reconocida -- ';
+        }
+        console.log('Talla seleccionada: ' + talla);
+    </script>
+</body>
+</html>

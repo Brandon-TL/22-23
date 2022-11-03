@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strings 1</title>
+</head>
+</body>
+<!--1.-Dado el siguiente texto "hola que tal.como estás.yo muy bien" crea un string donde se corrige
+    la falta ortográfica existente de poner en mayúscula la primera letra de una frase.-->
+    <script>
+        let full = "hola que tal.como estás.yo muy bien";
+        alert ("String sin modificar: \n" + full)
+        full = full.split(".");
+        for (let i = 0; i < full.length; i++) {
+            full[i] = full[i].charAt(0).toLocaleUpperCase() + full[i].substr(1).toLowerCase();
+        }
+        full = full.join(".");
+        alert ("String modificado: \n" + full);
+    </script>
+</body>
+</html>

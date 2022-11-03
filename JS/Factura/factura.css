@@ -1,0 +1,12 @@
+body {
+    background: black;
+    color: white;
+}
+
+tr > td:first-of-type {
+    width: 100px;
+}
+
+td > button {
+    width: 100%;
+}

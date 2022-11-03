@@ -1,0 +1,4138 @@
+{
+    "nhits": 2090,
+    "parameters": {
+        "dataset": "registro-de-turismo-de-castilla-y-leon",
+        "rows": 209,
+        "start": 0,
+        "facet": [
+            "establecimiento",
+            "provincia",
+            "municipio"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3121ce3ba14353a14cecffd48eee23dc912cf21d",
+            "fields": {
+                "plazas": 33,
+                "municipio": "Valladolid",
+                "nombre": "LORD",
+                "cp": "47007",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000183",
+                "telefono_1": "983000000",
+                "direccion": "GABILONDO 2"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "2437dd5de84d2e0efe3e1ea15f08de0f5fb86bd1",
+            "fields": {
+                "plazas": 58,
+                "municipio": "Valladolid",
+                "nombre": "EL TOSTADERO",
+                "cp": "47004",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004009",
+                "telefono_1": "609006557",
+                "direccion": "CA\u00d1O ARGALES, PLAZA 5"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ab923b99b42ffaa564c4fa3684f469ad68a81c04",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003770",
+                "municipio": "Valladolid",
+                "telefono_1": "696294456",
+                "direccion": "PENITENCIA 4 ESQUINA C/ QUEBRADA",
+                "nombre": "TABERNA SPORT LAS ALITAS",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a2c9a85f86a68e22d272638f510686e1f33b9bb5",
+            "fields": {
+                "plazas": 48,
+                "municipio": "Valladolid",
+                "nombre": "QUATTRO CENTO",
+                "cp": "47006",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004514",
+                "telefono_1": "667696157",
+                "direccion": "JUAN DE JUNI 12"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b5021bb3807cc81c30319600f595bc20f17982aa",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004525",
+                "municipio": "Valladolid",
+                "telefono_1": "983373777",
+                "direccion": "SIMANCAS, CAMINO VIEJO, 8",
+                "nombre": "MONASTERIO",
+                "cp": "47008",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a5a510bea8dfd658d78b7b750b18b5fcc27eea06",
+            "fields": {
+                "plazas": 55,
+                "municipio": "Valladolid",
+                "nombre": "LAS CUBAS",
+                "cp": "47005",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004527",
+                "telefono_1": "661969867",
+                "direccion": "Calle CERVANTES 26"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "33175568ff647506c01787a834463ff63ddb3f15",
+            "fields": {
+                "plazas": 45,
+                "municipio": "Valladolid",
+                "nombre": "LA PIEL DEL OSO",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004531",
+                "telefono_1": "615574561",
+                "direccion": "EMPECINADO 21"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "efab3020bd3bdae0e0145dae62f51848686661ca",
+            "fields": {
+                "plazas": 47,
+                "municipio": "Valladolid",
+                "nombre": "COCO-CAFE",
+                "cp": "47001",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004546",
+                "telefono_1": "983181328",
+                "direccion": "FEDERICO WATTENBERG, PLAZA 1"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "1a748cde2c583c9ef6f95d9a1410162d389643dd",
+            "fields": {
+                "plazas": 40,
+                "municipio": "Valladolid",
+                "nombre": "HEAVEN",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004548",
+                "telefono_1": "633262767",
+                "direccion": "SAN AGUSTIN, 3"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "c108d087d07ad1b465eebdea1f9d4eb965988fd1",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003688",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SALUD 20",
+                "nombre": "TITAMAR",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b62bbc75e87fcdd4536e28df905ddca7cec18b54",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002648",
+                "municipio": "Valladolid",
+                "telefono_1": "983508233",
+                "direccion": "TUDELA 10",
+                "nombre": "NEPTUNO",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "6b8cd118ff48d959aa68f9960e33fa54064a7046",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000056",
+                "municipio": "Valladolid",
+                "telefono_1": "983342614",
+                "direccion": "DOCTRINOS SN",
+                "nombre": "SUIZO",
+                "cp": "47001",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "23fee83bb1cdde93fead59bef0666d5e9c936fa2",
+            "fields": {
+                "plazas": 68,
+                "municipio": "Valladolid",
+                "nombre": "BOLA-8",
+                "cp": "47004",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004556",
+                "telefono_1": "983393638",
+                "direccion": "CARCEL CORONA 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "bc1acbb731b477e0160d75099e35c9ef02300a14",
+            "fields": {
+                "plazas": 39,
+                "email": "facturacion@grupoaltuntun.com",
+                "municipio": "Valladolid",
+                "telefono_2": "615303861",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "LUNATICO",
+                "cp": "47004",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002937",
+                "telefono_1": "983044609",
+                "direccion": "Acera RECOLETOS 7"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "6a3c0c01c2c2e11fdd2fe061c4fd72cde8f77a2e",
+            "fields": {
+                "plazas": 45,
+                "municipio": "Valladolid",
+                "nombre": "TABERNA EL HERRADOR",
+                "cp": "47014",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004563",
+                "telefono_1": "983373924",
+                "direccion": "Calle JUAN GARCIA HORTELANO 13"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "4bea17f2aac93bbab6314b794ec5d437816bb9b7",
+            "fields": {
+                "plazas": 42,
+                "email": "ANTONIODUQUE55@GMAIL.COM",
+                "municipio": "Valladolid",
+                "nombre": "LA CABA\u00d1A",
+                "cp": "47006",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004564",
+                "telefono_1": "653132778",
+                "direccion": "Calle GREGORIO FERNANDEZ 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a2708eaa680f4bfc0eb8214e1c51585f636f35a8",
+            "fields": {
+                "plazas": 70,
+                "municipio": "Valladolid",
+                "nombre": "CANDILEJAS",
+                "cp": "47014",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003283",
+                "telefono_1": "633915851",
+                "direccion": "Calle ERAS 8  BJ"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "596c949646e87b52d2c5d56e49ee613c7bb6e0d3",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002528",
+                "municipio": "Valladolid",
+                "telefono_1": "699093839",
+                "direccion": "Calle CARIDAD 2",
+                "nombre": "CARUSO",
+                "cp": "47001",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "851a5d95dd690419a21ed75953366aa483d3d74f",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003065",
+                "municipio": "Valladolid",
+                "telefono_1": "983257710",
+                "direccion": "QUEBRADA 18",
+                "nombre": "EPI",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "4902458c12b67731d9a8b82a277065d500b2590b",
+            "fields": {
+                "plazas": 44,
+                "email": "serisgon@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "BIZARRO",
+                "cp": "47002",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004576",
+                "telefono_1": "675485273",
+                "direccion": "Calle ARRIBAS 18"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "1fbe147a1b5a738e1c8687196849d28b1bea3710",
+            "fields": {
+                "plazas": 56,
+                "municipio": "Valladolid",
+                "nombre": "SPIRIT OF ST. LOUIS",
+                "cp": "47007",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004581",
+                "telefono_1": "983226117",
+                "direccion": "ARZOBISPO MARCELO GONZALEZ 12 entrada G\u00aa Goldaraz"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "c7710356a31736a88179b4dad6d19bd9f4217068",
+            "fields": {
+                "plazas": 30,
+                "municipio": "Valladolid",
+                "nombre": "EL CORTIJO",
+                "cp": "47001",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004582",
+                "telefono_1": "654691972",
+                "direccion": "Calle CORREOS 3"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b101de9174f84b700e6f1f319d93a0712f311cca",
+            "fields": {
+                "plazas": 80,
+                "email": "comacafeycopas@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "LA EMBAJADA",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004590",
+                "telefono_1": "636723452",
+                "direccion": "Calle SAN BENITO C/V A C/ GENERAL ALMIRANTE"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "8bd67d57bf295a8ffdc74d92f6fa4492fb22bec3",
+            "fields": {
+                "plazas": 45,
+                "municipio": "Valladolid",
+                "nombre": "CASA LOMA",
+                "cp": "47009",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004594",
+                "telefono_1": "619482450",
+                "direccion": "MOLINO PRINCIPE, N\u00ba 2"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b07f511acfbc036911ec34f2db2ffb04edf567df",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004097",
+                "municipio": "Valladolid",
+                "telefono_1": "666778125",
+                "direccion": "JUPITER 6",
+                "nombre": "EL RINCONCITO DE YUS",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "fa937c201226b592b8105cfe19121f88d7a14495",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003286",
+                "municipio": "Valladolid",
+                "telefono_1": "645867117",
+                "direccion": "VILLANUEVA 25",
+                "nombre": "LAESO",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "54014b4f75bcb1272aac399420d43913a17c9420",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001450",
+                "municipio": "Valladolid",
+                "telefono_1": "983221546",
+                "direccion": "GENERAL SHELLY 18",
+                "nombre": "TRIANGULO",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "1266cd97fdfd990a0fab2020eb619c0b5c8b02f7",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001976",
+                "municipio": "Valladolid",
+                "telefono_1": "627102644",
+                "direccion": "MARTE SN",
+                "nombre": "PARNASO",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "003d6e7a4c5c318d24482c0440d9fb08855fa152",
+            "fields": {
+                "plazas": 20,
+                "email": "carmenaguado@asesoriaaguado.com",
+                "municipio": "Valladolid",
+                "telefono_2": "650481508",
+                "nombre": "TRAPECIO",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002444",
+                "telefono_1": "983300540",
+                "direccion": "Calle SAN BLAS 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "903258f9e942ce78c8d86f3c0d2b48fe605a08c9",
+            "fields": {
+                "email": "lifecafeycopas@hotmail.com",
+                "municipio": "Valladolid",
+                "nombre": "THAROLO'S",
+                "cp": "47004",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000722",
+                "telefono_1": "647567600",
+                "direccion": "Calle BAILEN 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3c3bb6859983e6ce5bb4c9c0b0474007af8b4d7b",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000165",
+                "municipio": "Valladolid",
+                "telefono_1": "983297082",
+                "direccion": "GALATEA 1",
+                "nombre": "GALATEA",
+                "cp": "47004",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b31ca051c3c2873ebed53ef03f3bd16a49bc276a",
+            "fields": {
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "VINO A TU GUSTO",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001518",
+                "telefono_1": "640161126",
+                "direccion": "Calle TAHONAS 3"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "aab0ca6c2e2cba0534137b9b27b7dff940968597",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003990",
+                "municipio": "Valladolid",
+                "telefono_1": "635513507",
+                "direccion": "Calle ENRIQUE LEON, N\u00ba 25-27",
+                "nombre": "CAFELITO",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5a8f6c1942a28fef6ff56208a11d680bc4e59aff",
+            "fields": {
+                "plazas": 23,
+                "municipio": "Valladolid",
+                "nombre": "DISEL",
+                "cp": "47011",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003254",
+                "telefono_1": "670432608",
+                "direccion": "Calle MADRE DE DIOS 16"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "da3a85e79b2a04e463e620957650e9c33e5774c4",
+            "fields": {
+                "plazas": 81,
+                "municipio": "Valladolid",
+                "nombre": "CERVECERIA 100 MONTADITOS",
+                "cp": "47008",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004598",
+                "telefono_1": "983231027",
+                "direccion": "Calle SIMANCAS, CAMINO VIEJO, S/N\u00ba  -C.C.VALLSUR-"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ce3fedbd694be5637d16c64cf08f2aa95f8f076e",
+            "fields": {
+                "plazas": 32,
+                "municipio": "Valladolid",
+                "nombre": "TELLEZ",
+                "cp": "47005",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003109",
+                "telefono_1": "695986279",
+                "direccion": "C/ HIGINIO MANGAS, 2 -VADILLOS, PLAZA 2"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "43f1040bd22c896024fdc08a9d47fbc6243c95af",
+            "fields": {
+                "plazas": 30,
+                "email": "RESTAURANTERIVERA@OUTLOOK.ES",
+                "municipio": "Valladolid",
+                "nombre": "\"RIVERA\" ESPACIO GASTRON\u00d3MICO",
+                "cp": "47002",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004611",
+                "telefono_1": "983380709",
+                "direccion": "Calle FERRARI 8"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "963849bf25fc00cdd099b18dbc3e0aeb86890cd5",
+            "fields": {
+                "plazas": 35,
+                "municipio": "Valladolid",
+                "nombre": "JAVI'S",
+                "cp": "47004",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004619",
+                "telefono_1": "615319328",
+                "direccion": "MERCED 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "c8f1253c0bfcb9aef743b0ca81ea3cd3c4af59cc",
+            "fields": {
+                "email": "monicamoro32@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "LA BICICLETA",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002300",
+                "telefono_1": "633472094",
+                "direccion": "CANTARRANAS, PLAZA 6"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "f848c6a3ef3eb12cb374d1de1e544f7c6743d6ae",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001937",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "PALENCIA, AVDA 18 C/V C/ DOCTOR ESQUERDO",
+                "nombre": "TUAREG",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "85a3483240baea8d493510894a4fd0db5e892146",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000831",
+                "municipio": "Valladolid",
+                "telefono_1": "000000000",
+                "direccion": "CORPUS CHRISTI 9",
+                "nombre": "VIENA",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5c100dc2670dfeb812988dfbbd9c76fe320bb394",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002172",
+                "municipio": "Valladolid",
+                "telefono_1": "983335737",
+                "direccion": "FRAY ANTONIO ALCALDE 1",
+                "nombre": "QUEEN",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ab5112e5e1d7582f5154b217caacb50ccd8294c3",
+            "fields": {
+                "plazas": 20,
+                "email": "juancar.jccg19@gmail.com",
+                "municipio": "Valladolid",
+                "telefono_2": "685836695",
+                "nombre": "D'LIZ",
+                "cp": "47012",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003175",
+                "telefono_1": "983373706",
+                "direccion": "Paseo SAN ISIDRO 69"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b9177db497ee8e828294467eb823074efe36c9f2",
+            "fields": {
+                "plazas": 80,
+                "municipio": "Valladolid",
+                "nombre": "CUATRO ROSAS",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002188",
+                "telefono_1": "983235503",
+                "direccion": "Calle SAN JOSE DE CALASANZ 40"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "70cf8b5b7c2b8c688f0e7beb0b5493f6302cb3f3",
+            "fields": {
+                "plazas": 61,
+                "municipio": "Valladolid",
+                "nombre": "OBA-OBA",
+                "cp": "47010",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001427",
+                "telefono_1": "983251167",
+                "direccion": "NEBRIJA 16"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5203f70683e38125b379a1b751c1b703cb6ca955",
+            "fields": {
+                "plazas": 69,
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "MARCOS II",
+                "cp": "47012",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004631",
+                "telefono_1": "983396046",
+                "direccion": "\u00c1GUILA, N\u00ba 8"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "e41149ff5ab7f057245d6c9e7713b223b27c0353",
+            "fields": {
+                "plazas": 73,
+                "email": "carmen@gesemp.es",
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "BUONA VITA",
+                "cp": "47005",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004633",
+                "telefono_1": "665659972",
+                "direccion": "EPIFAN\u00cdA, 8"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "8ec5b058e86571b0255e9f8e4e2f78768a59ead1",
+            "fields": {
+                "plazas": 41,
+                "municipio": "Valladolid",
+                "nombre": "LA CATEDRAL",
+                "cp": "47002",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002409",
+                "telefono_1": "983306649",
+                "direccion": "CATEDRAL 3"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "14455b4063271f5c2dd68cc6d76b451b217c5824",
+            "fields": {
+                "plazas": 25,
+                "municipio": "Valladolid",
+                "nombre": "PLAZA MADRID",
+                "cp": "47001",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003481",
+                "telefono_1": "685468479",
+                "direccion": "MADRID, PLAZA 2"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "22aa695b857cec1b3617e93c8441fbdd2e81cb5b",
+            "fields": {
+                "plazas": 33,
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "DUOMO",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004635",
+                "telefono_1": "983117899",
+                "direccion": "SEGOVIA, AVDA 3 Y 5"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "4418ca51ef7ccbd9c1a3d720d2d15fe8282919b5",
+            "fields": {
+                "plazas": 28,
+                "email": "miguelasensio1234@outlook.es",
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "MINI CIRCULAR",
+                "cp": "47004",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004010",
+                "telefono_1": "651907478",
+                "direccion": "Calle PADRE CLARET 16"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "31d40ad13963cce3e73bce11be7ad6e9c3a4cfdb",
+            "fields": {
+                "plazas": 58,
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "ALISSON",
+                "cp": "47008",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004638",
+                "telefono_1": "983136580",
+                "direccion": "MIGUEL DE UNAMUNO, 5"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9a148a30782a1c0e65f3ef4ff5ce3004c8fc79e3",
+            "fields": {
+                "plazas": 31,
+                "municipio": "Valladolid",
+                "telefono_2": "627219062",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "LOVE TAJ MAHAL",
+                "cp": "47010",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004641",
+                "telefono_1": "983306703",
+                "direccion": "PORTILLO DE BALBOA 25"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ecfb8ea5f9cfc2d80ab2a3e0992c5ac331e800c6",
+            "fields": {
+                "plazas": 40,
+                "municipio": "Valladolid",
+                "nombre": "LAS VEGAS",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001958",
+                "telefono_1": "983152731",
+                "direccion": "LA TRANSICI\u00d3N  5"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7b6df559e0278ebf529064931b9eb1d86165ef8a",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003727",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "NEBRIJA 17",
+                "nombre": "LA ABUELA OLVIDO",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ab40ecdb37100f567ac3ce03c7138716868aa14f",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000044",
+                "municipio": "Valladolid",
+                "telefono_1": "983237771",
+                "direccion": "Calle ROSARIO PEREDA 27",
+                "nombre": "ACAPULCO",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "326349cd91334b1ab3e76382f54f6845b4ab762e",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001714",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ALAVA, 3",
+                "nombre": "ACUEDUCTO",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9de28560146faeb410000a3f265bd06a85d63e83",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000745",
+                "municipio": "Valladolid",
+                "telefono_1": "983234225",
+                "direccion": "ESPERANZA 15",
+                "nombre": "AGUSTIN",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "e53f8d83ce8c964a10d7cfc98a9c23d049be5668",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002422",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "PELICANO 1",
+                "nombre": "AINARA",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "91e0276d130c48b87a6548cee207f3436ae86424",
+            "fields": {
+                "email": "justojdm@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "CASTIVERA",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000071",
+                "telefono_1": "665394204",
+                "direccion": "Calle ALARC\u00d3N, 3"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "62e971e6bff339eaaa4d3b0afbe6f26b9670e2ae",
+            "fields": {
+                "plazas": 51,
+                "municipio": "Valladolid",
+                "nombre": "SIDRER\u00cdA LA PATATA BRAVA",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003225",
+                "telefono_1": "666207249",
+                "direccion": "ALAVA, 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5d8af7d8f92dc92cec0d854beb354b2a39fbb097",
+            "fields": {
+                "plazas": 26,
+                "municipio": "Valladolid",
+                "nombre": "EL RINC\u00d3N DE VERA",
+                "cp": "47010",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002577",
+                "telefono_1": "983000000",
+                "direccion": "NEBRIJA 28"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "90029a3d5abf4875c6a03ecd050e1152f15f428b",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004012",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "DE LOS REYES, 1",
+                "nombre": "ALBAICIN",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ffa0c75249e3a71c9cc21ff0b093bafcd4857c84",
+            "fields": {
+                "email": "malhostia_concentrada@hotmail.com",
+                "municipio": "Valladolid",
+                "nombre": "ALBANY",
+                "cp": "47002",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003637",
+                "telefono_1": "663130265",
+                "direccion": "TUDELA 10"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ff2cebf5c142008208120a896d1b664baef76e9d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002143",
+                "municipio": "Valladolid",
+                "telefono_1": "000000",
+                "direccion": "Calle ALONSO PESQUERA 3",
+                "nombre": "ALBORADA",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "dadb995e12731929a48af60772c12a26e8d3e999",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002382",
+                "municipio": "Valladolid",
+                "telefono_1": "602860672",
+                "direccion": "PUENTE COLGANTE, 28",
+                "nombre": "PUENTE COLGANTE - APU DONER KEBAB",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a8e8b8db238b23fe27e66ab8d2851f2e8830896f",
+            "fields": {
+                "plazas": 59,
+                "email": "paz@gestycovalladolid.com",
+                "municipio": "Valladolid",
+                "nombre": "APPLE ROSE",
+                "cp": "47002",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001531",
+                "telefono_1": "983353979",
+                "direccion": "Calle LIBRERIA 9"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "58f7defe25fe33e23dbca0b290d55d94a3bd451e",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002880",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ESPERANZA",
+                "nombre": "ALONSO",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a58bdbb7fb817920cd24106ea489ef42960544d0",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001376",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SALUD 21",
+                "nombre": "ALTAMIRA",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "de3ec994577067a29891f0671ee491e1ccbc0e32",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002655",
+                "municipio": "Valladolid",
+                "telefono_1": "983265648",
+                "direccion": "SOTO 57",
+                "nombre": "AMADOR - 2",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3c37eafb16c8349ef04840efd3374eb15bb3e1c7",
+            "fields": {
+                "plazas": 49,
+                "email": "zapatitos_veloces@hotmail.com",
+                "municipio": "Valladolid",
+                "nombre": "AMARYLLYS",
+                "cp": "47014",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002343",
+                "telefono_1": "652893352",
+                "direccion": "Calle PIO DEL RIO HORTEGA 6  B"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7120ca131c34d6ace0784c19cb3957a2629bd7c1",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000123",
+                "municipio": "Valladolid",
+                "telefono_1": "983253001",
+                "direccion": "DIECIOCHO DE JULIO, 26",
+                "nombre": "AMBROSIO",
+                "cp": "47004",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9237e630100a33a39f0c4c1af5a3c352d9856040",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000219",
+                "municipio": "Valladolid",
+                "telefono_1": "000000",
+                "direccion": "GRANADA 27",
+                "nombre": "ANDALUCIA",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "e6b0706bd007f2a809eb06b207571f5c44b56f5a",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002386",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "JUAN CARLOS I, PASEO 103",
+                "nombre": "ANDRES",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9a6536c1f7a6d2c07543e45da7a2706ff06c8125",
+            "fields": {
+                "plazas": 20,
+                "email": "ruben@lasbarricas.com",
+                "municipio": "Valladolid",
+                "web": "www.barangelillo.com",
+                "nombre": "ANGELILLO",
+                "cp": "47001",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000063",
+                "telefono_1": "615303861",
+                "direccion": "MARIA DE MOLINA 22"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ed08ad73f59fc2d282ca33c1ded01556f996367a",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "PINAR DE ANTEQUERA",
+                "nucleo": "PINAR DE ANTEQUERA",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003657",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ACACIAS 27",
+                "nombre": "ANTEQUERA",
+                "cp": "47153",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "69b1ecaa95d25f9255b9c257d4f08bdbe7809249",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001136",
+                "municipio": "Valladolid",
+                "telefono_1": "983251784",
+                "direccion": "HERMANOS ALVAREZ QUINTERO",
+                "nombre": "JUANJO",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5200a77fd3ad9cd5cfd3ce525078585767fdcda6",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003045",
+                "municipio": "Valladolid",
+                "telefono_1": "692140159",
+                "direccion": "Plaza DE LOS ARCES 6",
+                "nombre": "EL GATO QUE QUERIA MAS IBUS",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "97dc2cb58f50ab05a6a8a89b98bb3b28ff523be0",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000122",
+                "municipio": "Valladolid",
+                "telefono_1": "983255998",
+                "direccion": "SAN NICOLAS, 9",
+                "nombre": "APARICIO",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "348a3e5acd9e1402d01917e25287acd3cfb71164",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004029",
+                "municipio": "Valladolid",
+                "telefono_1": "983227686",
+                "direccion": "NORTE 2, BAJO",
+                "nombre": "APETECE",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "d8b4ba1dbc64a09c7a3a8ac3d7a6d2aec2d633d9",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000383",
+                "municipio": "Valladolid",
+                "telefono_1": "983208089",
+                "direccion": "TAHONAS 6 y 8",
+                "nombre": "ARIAS",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "976b8bd2223da058c628fe5f31f2d96297a08db0",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001753",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "GREGORIO FERN\u00c1NDEZ 2",
+                "nombre": "ARLEQUIN",
+                "cp": "47006",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7bce77463cd3d9676ddd0a8fd41ca795ff1ea917",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002020",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "MARTE SN.",
+                "nombre": "ARPA",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "d11f65d90741487a3e83d7c22d9bebb5f1e370e1",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003234",
+                "municipio": "Valladolid",
+                "telefono_1": "653871834",
+                "direccion": "Calle DARSENA 3",
+                "nombre": "CAFE-LITOOO!",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "0dd6649165cb569392069f91751357ee098af373",
+            "fields": {
+                "municipio": "Valladolid",
+                "web": "www.larataescarlata.com",
+                "nombre": "LA RATA ESCARLATA",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002502",
+                "telefono_1": "630021018",
+                "direccion": "JUAN MAMBRILLA 12"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "12e739b1bec378b5eed8f92814f49e64182e87ce",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002515",
+                "municipio": "Valladolid",
+                "telefono_1": "98300000",
+                "direccion": "MALDONADO 8-10",
+                "nombre": "ASTAROTH",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5a8b7719d5a79dc859e1d9000f967550a8751809",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003039",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "FRANCISCO SUAREZ 2",
+                "nombre": "ASWAD",
+                "cp": "47006",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "00403b2e5656d7ad58665b4e63a6352fcbffa565",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001945",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "CAMINO DEL CABILDO 1",
+                "nombre": "AVE TURUTA",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "01151f0a85307512fd1413d0893866176218e3f9",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000697",
+                "municipio": "Valladolid",
+                "telefono_1": "983235103",
+                "direccion": "CERROS, AVDA SN",
+                "nombre": "AVENIDA",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ae07efba8089ec85c31dcdbf4095837e80197813",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003509",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "GARDOQUI 6",
+                "nombre": "BACHATA",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "79920019b48332da783b9678d1d1f1371aef615a",
+            "fields": {
+                "municipio": "Valladolid",
+                "telefono_2": "609218406",
+                "nombre": "COOCON CLUB - DADA",
+                "cp": "47001",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001953",
+                "telefono_1": "983377673",
+                "direccion": "Calle PASION 13"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "c64e41346f8d6a79f697be294053954053a153c8",
+            "fields": {
+                "plazas": 27,
+                "email": "irenealonsoalvarez@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "HYPATIA COFFEE & BEER",
+                "cp": "47014",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003920",
+                "telefono_1": "680923137",
+                "direccion": "Calle PIO DEL RIO HORTEGA 14"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "8c249e4e5b21a0c1f89cb0ac5d315e30dc258038",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000058",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "CALDER\u00d3N DE LA BARCA, 7",
+                "nombre": "BAHIA",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b3f6ea6bf4e5785dbd80f34d893f518ab9c36b46",
+            "fields": {
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "LA ALEGR\u00cdA DE LA HUERTA",
+                "cp": "47004",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002816",
+                "telefono_1": "647567600",
+                "direccion": "BAILEN 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "6fe22657c9643ec0a550331a65502061d4b3de23",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000306",
+                "municipio": "Valladolid",
+                "telefono_1": "983250345",
+                "direccion": "BAILARIN VICENTE ESCUDERO 37",
+                "nombre": "EL BARCO",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3ebeab7be61e71818e505cfaf04de1b79e527c7f",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003758",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "RENACIMIENTO, PASEO SN",
+                "nombre": "EL BARQUERO",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7a29ccd4538bf03fe66ec081204a1eba1670c54c",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001688",
+                "municipio": "Valladolid",
+                "telefono_1": "620306076",
+                "direccion": "SEGOVIA, AVDA 93",
+                "nombre": "KING DONER KEBAB",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9827a30d524f8c1bfcd59621cf1733789d14c123",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002548",
+                "municipio": "Valladolid",
+                "telefono_1": "983237373",
+                "direccion": "FARNESIO, PASEO 23",
+                "nombre": "BELLAVISTA",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "dad591020f2c01e6d3678a44b3b53deffbb018fb",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003131",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ALBACETE, 2",
+                "nombre": "BENDI",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "acd593ec8d14ebd7404e4c85dba1f7cd119ffe20",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000359",
+                "municipio": "Valladolid",
+                "telefono_1": "983251012",
+                "direccion": "TIRSO DE MOLINA 34",
+                "nombre": "BENIDORM",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "74d74b55b1613515f230653e02b507509ed524e4",
+            "fields": {
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "DONDE PAULA",
+                "cp": "47007",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003331",
+                "telefono_1": "609399638",
+                "direccion": "NORTE 1"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "d07a59cdf0e4c0c707bdcde0243066662257a09b",
+            "fields": {
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "CASA JOSE",
+                "cp": "47012",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001694",
+                "telefono_1": "685252084",
+                "direccion": "Paseo SAN ISIDRO 7"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "75ead71b3771c2f581b27ee6d386e5b813ce1a73",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001605",
+                "municipio": "Valladolid",
+                "telefono_1": "659962182",
+                "direccion": "SOTO 48",
+                "nombre": "LEOBE",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "bac8f619b7f618c290d672ed8e369ac14a100f8b",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002942",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "GOYA 3",
+                "nombre": "BLUE 3",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "2005e1c2bca0aafc6c2b2d87bef6492879678e71",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000234",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "GABRIEL Y GALAN 16",
+                "nombre": "LA BODEGA",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "640df91569349311a9726a3c2aa50331437fde3f",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001341",
+                "municipio": "Valladolid",
+                "telefono_1": "983200686",
+                "direccion": "ESQUILA 32",
+                "nombre": "BODEGA QUINTANILLA",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "aa05461a47c81633ab550dd6aae5581c5e4f5b71",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000276",
+                "municipio": "Valladolid",
+                "telefono_1": "983232157",
+                "direccion": "MADRID, CTRA 83",
+                "nombre": "LA BOMBILLA",
+                "cp": "47008",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "61e2527dff92f0a3b6b4e104fa86307161be0b94",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001936",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SAN BLAS 17",
+                "nombre": "BORSALINO",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "d0d9dafd0067d3e464827337f995b0db3e047a5d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004173",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "FRANCISCO MENDIZABAL 3",
+                "nombre": "BOULEVARD",
+                "cp": "47014",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "62c0c7ec6e80c766a4f7f7d2c18cfe0301e21d20",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004056",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "Avenida SALAMANCA 110",
+                "nombre": "BOWLING ZOOL",
+                "cp": "47014",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "d2be4f338787d8906deea525c2156c8bb3f9e47f",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000621",
+                "municipio": "Valladolid",
+                "telefono_1": "983235020",
+                "direccion": "ARCA REAL 24",
+                "nombre": "BOY",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "d0b421911908235e2cabbf14ed0edb7c83920ad1",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003546",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SAN IGNACIO 2",
+                "nombre": "BRAVO",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "4feccafc8c94e6970b052f374cde238eb2cdc081",
+            "fields": {
+                "plazas": 28,
+                "email": "leeleey2205@gmail.com",
+                "municipio": "Valladolid",
+                "telefono_2": "649412428",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "YAMMIS",
+                "cp": "47010",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003464",
+                "telefono_1": "644772502",
+                "direccion": "Calle TIRSO DE MOLINA 4"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b343c9c5dc80f83bb480a35b9b322d311cc19c30",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003154",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "DARSENA 1-3",
+                "nombre": "BRISAS",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "f2f6bddbc1a0c881a9a29bcfd58e78632381f12c",
+            "fields": {
+                "email": "julian.desigual@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "UTOP\u00cdA",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003404",
+                "telefono_1": "658991835",
+                "direccion": "Plaza LOS ARCES 1"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b1e06c534ec325f85883cbf142a948d9c4dcacb9",
+            "fields": {
+                "plazas": 44,
+                "municipio": "Valladolid",
+                "nombre": "EL PARAISO DE DANI",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002829",
+                "telefono_1": "622758894",
+                "direccion": "Calle PARAISO 2"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "50fc90aa4ed1a3c48e3be1a0f78cb0777543b756",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000699",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "AGUILERA 2",
+                "nombre": "CACHORRO",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "8dd0130be8d35645a5eccf507c7b00093611ba92",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003090",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "DETRAS DE SAN ANDRES 2",
+                "nombre": "CAFE DE DIEGO",
+                "cp": "47004",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ec0eaa978c79e671da0d394aed723e1825511278",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004022",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "DUQUE DE LA VICTORIA 20",
+                "nombre": "CAFE VICTORIA",
+                "cp": "47001",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ac3a1459e2dcb19bfb973b74434a5e60dac66fab",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001041",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ALONSO BERRUGUETE 6",
+                "nombre": "TABERNA CALDERON",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3010c63eb5317051331503a7b86be2fdd6e351dc",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000256",
+                "municipio": "Valladolid",
+                "telefono_1": "699292112",
+                "direccion": "EMBAJADORES 68",
+                "nombre": "CALIFORNIA",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9246d449efdcdef530e39b8f321c12520dce61e1",
+            "fields": {
+                "municipio": "Valladolid",
+                "telefono_2": "653999133",
+                "nombre": "CALLE MAYOR",
+                "cp": "47006",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002137",
+                "telefono_1": "983155157",
+                "direccion": "Calle FRANCISCO SUAREZ 7"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7f66318df39d441cc8f367860034b770a3e7d128",
+            "fields": {
+                "plazas": 47,
+                "email": "felixsaldanacarretero@yahoo.es",
+                "municipio": "Valladolid",
+                "nombre": "CAMPERO",
+                "cp": "47001",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000889",
+                "telefono_1": "983000000",
+                "direccion": "Calle CLAUDIO MOYANO 16"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "dd54b9a753b45df31ac8a9b3be50810698a984de",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003313",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ZORRILLA, PASEO 540",
+                "nombre": "LOS CAMPESINOS",
+                "cp": "47008",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "bf90cdcb5b49663be1f848beafb7cb60fd24bfd8",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001514",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "FRANCISCO SUAREZ 5",
+                "nombre": "LA CANDELARIA",
+                "cp": "47006",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3cbacdafe945bd08c37e137542aea899249501e8",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001988",
+                "municipio": "Valladolid",
+                "telefono_1": "983354181",
+                "direccion": "ANGUSTIAS 11",
+                "nombre": "LOS CANDILES",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "15651999601dce917053293001759ce8dd964d41",
+            "fields": {
+                "email": "pipisacarino@hotmail.com",
+                "municipio": "Valladolid",
+                "nombre": "LOK",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003290",
+                "telefono_1": "620428333",
+                "direccion": "Calle ALAVA 1"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "2021f3de6ce229a31fc9be22b14a87b84f07d7d3",
+            "fields": {
+                "email": "magiver67@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "SUPERBESTIA LA CANTINA",
+                "cp": "47011",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003947",
+                "telefono_1": "627124679",
+                "direccion": "Camino DEL CEMENTERIO 19"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "79292fbeaf97a49ca7768bf278e09e60e6985d4d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000224",
+                "municipio": "Valladolid",
+                "telefono_1": "983235041",
+                "direccion": "HORNIJA 11",
+                "nombre": "CANTON",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "fb448dca88356185d4c7994bb81fa56b1c6a61ce",
+            "fields": {
+                "email": "SUSAGONZA@HOTMAIL.COM",
+                "municipio": "Valladolid",
+                "telefono_2": "636046191",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "CARMELO",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000607",
+                "telefono_1": "649445087",
+                "direccion": "Calle CARMELO 2"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "4b85d4eab5af0e7085c126c729b346f5bee1c693",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001470",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "RENACIMIENTO, PASEO 22",
+                "nombre": "CAROLA",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "6ad39a27e327e894c3d3dd27fac7918609b66411",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001863",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "PORTILLO DE BALBOA 32",
+                "nombre": "EL CARRO",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "2460744c2b14ea84975266f903ae27100cf0bb67",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004000",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ASUNCION 9",
+                "nombre": "CASA DE AVILA",
+                "cp": "47004",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "771b9ff493d59d522d52a693241bcdf1dab0c7b2",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004055",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "GLORIETA DEL DESCUBRIMIENTO 4",
+                "nombre": "CASA BURGOS",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "bd7632299b3d2f96f5f4ea93e5241c4879f28d87",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "PINAR DE ANTEQUERA",
+                "nucleo": "PINAR DE ANTEQUERA",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002749",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ACACIAS SN",
+                "nombre": "CASABLANCA",
+                "cp": "47153",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "1f4304495e20acdd9d957d3459e149921f459bf7",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003978",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SOTO 52 Y 54",
+                "nombre": "LA CASTELLANA",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "320c023a8cf9bbbfc25594fada5b439cface58e8",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003554",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "HIGINIO MANGAS 4",
+                "nombre": "CASTELLANO",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "db6a42ae1616e7e069eeebc82e97151698d1213d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003202",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "MORADAS 28",
+                "nombre": "CASTI",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "687aadb5b46cf1951d61af0fd4af53956a3df814",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000646",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "CIG\u00dcE\u00d1A 22",
+                "nombre": "CASTRILLO",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "18f1504b059916e81fcf63838ec7999e12007e6b",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002147",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "CAUCE, PASEO 56",
+                "nombre": "CATALA",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ebaf2fd0be3989913ee54163e22ebd85cb6d5622",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000792",
+                "municipio": "Valladolid",
+                "telefono_1": "983235197",
+                "direccion": "PERPENDICULAR 14",
+                "nombre": "CELESTINO",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "f75d297f30b892039976eba1230c5a6d964a3466",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003845",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "RUEDA, CTRA 56 BLOQUE B",
+                "nombre": "LA CERVECERIA",
+                "cp": "47008",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "bd828ca8f724e4a66148066efa422a0595ed7694",
+            "fields": {
+                "email": "hernando@ritmosabroso.com",
+                "municipio": "Valladolid",
+                "web": "www.boogaloo.es",
+                "nombre": "BOOGALOO",
+                "cp": "47002",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000835",
+                "telefono_1": "636468200",
+                "direccion": "LOPEZ GOMEZ 17"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a663553f34ff6a30afeba465a46ad96d91030ba6",
+            "fields": {
+                "plazas": 40,
+                "email": "PEDROCARRERASRODRIGUEZ@GMAIL.COM",
+                "municipio": "Valladolid",
+                "nombre": "CISNEROS",
+                "cp": "47010",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000565",
+                "telefono_1": "643668416",
+                "direccion": "Calle CARDENAL CISNEROS 13"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "e65cf072e00ad60a529acbea0d4a97b3a56d0e5d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003103",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "GENERAL SOLCHAGA 66",
+                "nombre": "CITROEN",
+                "cp": "47008",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "20b29864e51da29a7fa8d0aebbd4dc4987236a51",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003517",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "GREGORIO FERNANDEZ 2",
+                "nombre": "LA CLAVE",
+                "cp": "47006",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5bef9f81aa51412c989c2334a3ac48af32f43ee5",
+            "fields": {
+                "email": "coffeesandcups@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "COFFEE CUP",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003316",
+                "telefono_1": "677536732",
+                "direccion": "Calle MACIAS PICAVEA 10"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "cefb81cd78f5e687cd0566b3faa7ebdc5daea1dd",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001409",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ESTACION 41",
+                "nombre": "COCOON",
+                "cp": "47004",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9d84f1e15b79f06fcfe4327ff52b82e851eaef80",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002812",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "NORTE 2",
+                "nombre": "COCKRAM",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b96a57492877ce222c306ada64059cd436209c9c",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003203",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "FRANCISCO SUAREZ 2",
+                "nombre": "COMIC",
+                "cp": "47006",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "c2363ff6ed7849077301905c1e4d2d6492c0efa5",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001354",
+                "municipio": "Valladolid",
+                "telefono_1": "665484258",
+                "direccion": "Paseo ZORRILLA 99",
+                "nombre": "DONER KEBAB LA CONCHA",
+                "cp": "47008",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b0ca06ce0a4d15ec0b8c377c87820226996efbe1",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000251",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "VALLE DE ESGUEVA 3",
+                "nombre": "CONDE",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "cf9fb4f0e566cf1c1f1e5f67b3b634e8e6ab3968",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002977",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "BURGOS, CTRA 60",
+                "nombre": "CONDERIO",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "378f878dc1267452b6900b704aa1676b04cff8f1",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003303",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "MAYOR, PLAZA 23",
+                "nombre": "CONTINENTAL",
+                "cp": "47001",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "e1cfd711af6ccf0239ce116e52c6b69eddfb4407",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002178",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "REYES CATOLICOS, AVDA 3",
+                "nombre": "THE COUNTRY",
+                "cp": "47006",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7213e721d3d433808636954c432a4f2d2e8e6f89",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004061",
+                "municipio": "Valladolid",
+                "telefono_1": "983208204",
+                "direccion": "SAN VICENTE, PASEO 71",
+                "nombre": "COVEN GARDEN",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "db3619d2c87237b613642874437b9dcc760209d1",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002186",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SAN JUAN, PLAZA 12",
+                "nombre": "LA CRIOLLA",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "503c8e0636e413b33973f9dad43fca27e15ea8b2",
+            "fields": {
+                "email": "angelayadrian@hotmail.com",
+                "municipio": "Valladolid",
+                "nombre": "DUX",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002844",
+                "telefono_1": "622238762",
+                "direccion": "ANGUSTIAS 13"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "6ddd17feb147ca89e3058af120a98c2f59266ff9",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002762",
+                "municipio": "Valladolid",
+                "telefono_1": "658902309",
+                "direccion": "Calle VILLANUEVA 1",
+                "nombre": "EL GALENO",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a961ff28a70e057b71f9238a467d2d47d28edd32",
+            "fields": {
+                "municipio": "Valladolid",
+                "telefono_2": "675286551",
+                "nombre": "CUBI",
+                "cp": "47012",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002976",
+                "telefono_1": "983290282",
+                "direccion": "PING\u00dcINO 11"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b819b5dbde5ba5a7317ec5c13a17be9617c4b2fa",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003025",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "TRILLA SN",
+                "nombre": "CUERPO NACIONAL DE POLICIA",
+                "cp": "47014",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "8f96aea82bebabb67d96533029f62838027bf62f",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002616",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "JOSE MARIA LACORT 28",
+                "nombre": "LA CURVA",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "1e443a8217d8c1ec744788d05f257ad645fdca2b",
+            "fields": {
+                "email": "rasek003@gmail.com",
+                "municipio": "Valladolid",
+                "telefono_2": "636868259",
+                "nombre": "CAF\u00c9 BAR PALACE 1687",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "telefono_3": "618911938",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000966",
+                "telefono_1": "656489989",
+                "direccion": "Calle CHANCILLERIA 7"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "68646b3bcbe12fc5b55253c5f9ec58be99def959",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001871",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "TOREROS",
+                "nombre": "CHANQUETE",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "2af874cebd795b16706d6b4a0ecba274d2dbc3ec",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000651",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "VILLANUEVA 13",
+                "nombre": "LA CHARRA",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7287f390efb4aca9210decb457b281ba8184ae3b",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002140",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ERAS 4",
+                "nombre": "CHIMENEAS",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "e54e275c9ce62d44805a3013d1be5864ba74700c",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000718",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "NUEVA DEL RIO 2",
+                "nombre": "CLUB CHIQUI",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "10e5bd0f63d4f1fa8246bc45f8f985cb0b91c08a",
+            "fields": {
+                "email": "administracion@boderoabogados.com",
+                "municipio": "Valladolid",
+                "telefono_2": "663415856",
+                "nombre": "BODEGA DELICIA",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000633",
+                "telefono_1": "983212391",
+                "direccion": "Calle EMBAJADORES 20"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5d3448b0c12a369fef1dc9c6efe7125c2f874ae5",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002110",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "MIRABEL 1",
+                "nombre": "DELTA",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9169ce1c5e05be99b6a0aca5b5c5d1f7dac60c49",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002861",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "DEMOCRACIA 17",
+                "nombre": "DEMOCRACIA",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "b13f392d2efd4e8e5f48f625c5c038994b47fc06",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003529",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SANTA RITA 6",
+                "nombre": "DENVER",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "538d6ac13da68c73247ee1900cffb676501a05f4",
+            "fields": {
+                "email": "willfiguerobles@hotmail.com",
+                "municipio": "Valladolid",
+                "telefono_2": "651333930",
+                "nombre": "LA SANDUNGUERA",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002112",
+                "telefono_1": "983301211",
+                "direccion": "Plaza FEDERICO WATTEMBERG 1"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "70b484b2d52e2f228e9419e0ee9b0de902af56ec",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002859",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "FRANCISCO HERNANDEZ PACHECO SN",
+                "nombre": "DEXIMAR",
+                "cp": "47014",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "6370a00750c2f93c19464e3edb2055d205badd84",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003896",
+                "municipio": "Valladolid",
+                "telefono_1": "983224989",
+                "direccion": "AURORA 10",
+                "nombre": "DIAL",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "91a631ca973efa6f9278ed4521da7060f6c58322",
+            "fields": {
+                "email": "juandeshayes@gmail.com",
+                "municipio": "Valladolid",
+                "telefono_2": "983006032",
+                "nombre": "MORDOR ROCK BAR",
+                "cp": "47003",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001477",
+                "telefono_1": "618225938",
+                "direccion": "MARQUES DEL DUERO 3"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "09a11e888ff3d1bb72a8e2637b722a8c328c7d0c",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003564",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "PORTILLO DE BALBOA 23",
+                "nombre": "DIVERT TRIP",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "fdced77b93117dd5cf923f2fe14ac371f8d7dd22",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001836",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ASUNCION 13",
+                "nombre": "DONNE",
+                "cp": "47004",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "a9bac3484b0324525304beea9143fa247ec500c3",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000584",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ALVARO DE LUNA 1",
+                "nombre": "DONOSTI",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3d1a88f93e0ca90e7f05ea947616617801cb0a92",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003880",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SAN JOSE 7 Y 9",
+                "nombre": "DUETS",
+                "cp": "47008",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ea8176c74440da13e7f5788701cfaed9dadcc196",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003471",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SAN JOSE 21",
+                "nombre": "EDITORIAL CB",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "019aa27f059053c8a063ed343d4ac6b52cf32c90",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002035",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "CARCEL CORONA",
+                "nombre": "EDU",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "0fb1b9f8cbe06695d9f3a8cf35ba31f2a5716610",
+            "fields": {
+                "plazas": 42,
+                "email": "rebeccarey202@gmail.com",
+                "municipio": "Valladolid",
+                "accesibles_minusvalidos": "Si",
+                "nombre": "LAFS TAPAS DE MI T\u00cdA",
+                "cp": "47014",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002208",
+                "telefono_1": "695087855",
+                "direccion": "Calle ADOLFO MIAJA DE LA MUELA 10"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "db21968ae6bb443208a921fe23910f37730d9506",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002818",
+                "municipio": "Valladolid",
+                "telefono_1": "654973118",
+                "direccion": "Calle SAN LUIS 2",
+                "nombre": "HOCKAH HOME",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ed4c4c4cfd7bff7eabf24993e273cbf6378be69f",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000168",
+                "municipio": "Valladolid",
+                "telefono_1": "663263335",
+                "direccion": "EMBAJADORES 24",
+                "nombre": "EMBAJADORES",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "37b364f8084b08650bfd9e162e74ec4b2ba8be35",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003775",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "Calle ESTEBAN GARCIA CHICO 2",
+                "nombre": "ERCHUS 2",
+                "cp": "47003",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "8fe20f2099e7199f2cf7c93d8cf9ae7a25c07935",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003924",
+                "municipio": "Valladolid",
+                "telefono_1": "640222457",
+                "direccion": "VEGAFRIA 32 (ESQ. C\u00d3RDOBA)",
+                "nombre": "LA PEN\u00daLTIMA",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "9fda80d504111fa4ba4b812870fe769247ff0733",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002953",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "Calle HERMANOS COSSIO 9",
+                "nombre": "LA ESCALERA",
+                "cp": "47014",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "8e7bc10cba6b207897b416985f21600f91ae5a64",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002694",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SATURNO 25",
+                "nombre": "EL ESPACIO",
+                "cp": "47009",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "55a88960c9790b0ecf70c3ae933b75bb2c71191a",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001637",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SALUD 20",
+                "nombre": "ESPARTERO",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "41dcb07d508ff9325f052069a01e196abfaae91d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000592",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "LUNA 4",
+                "nombre": "ESPERANTO",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "cc69fa5424bd6f673ee69070734ce9165c7c2b61",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002975",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "BAILARIN VICENTE ESCUDERO",
+                "nombre": "EL ESPIGON",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "f7c3b3e109f36bd4c70702c394fa77e8a95fd8e4",
+            "fields": {
+                "municipio": "Valladolid",
+                "telefono_2": "617430289",
+                "nombre": "LA ESQUINA IBERICA",
+                "cp": "47008",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/004176",
+                "telefono_1": "983247508",
+                "direccion": "MIGUEL DELIBES, AVDA 46"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "0635801540206d9de08bdf833ef04c61dbecea25",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001035",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "CARDENAL TORQUEMADA 49",
+                "nombre": "LA ESQUINITA",
+                "cp": "47010",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "294c1b8fedf83be4d5ff20c492217764d04c2459",
+            "fields": {
+                "municipio": "Valladolid",
+                "telefono_2": "605276797",
+                "nombre": "LA ESTRELLA",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000225",
+                "telefono_1": "983131243",
+                "direccion": "EMBAJADORES 80"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "45ee74ab1a8ef40a26ff28a44ee323283e623b14",
+            "fields": {
+                "email": "angelalinkm12@jhotmail.com",
+                "municipio": "Valladolid",
+                "nombre": "ESPA\u00d1A",
+                "cp": "47013",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002965",
+                "telefono_1": "603127565",
+                "direccion": "Paseo JUAN CARLOS I 17"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "22268675a5c4cde90fcd2a5d8e96fc43f25dc0ad",
+            "fields": {
+                "plazas": 35,
+                "municipio": "Valladolid",
+                "nombre": "FABIUS",
+                "cp": "47007",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002811",
+                "telefono_1": "625034103",
+                "direccion": "Calle AURORA 2"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "dd9655858a1e074c3ac9cd4406d56127e06ef1ff",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000342",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "VIA 27",
+                "nombre": "FANTASIA",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "c4cd26b5c690b7e4e57edda311d17c627350dc51",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000973",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "VALLE DE ESGUEVA 57",
+                "nombre": "FARO",
+                "cp": "47011",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ed64f29552026729521134dc54a7797605c764f5",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/000652",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ESPERANZA 18",
+                "nombre": "LA FAROLA",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "01135652d4fe0fb58c9612013071a72254fd55ab",
+            "fields": {
+                "plazas": 18,
+                "email": "albertolazaro11@gmail.com",
+                "municipio": "Valladolid",
+                "nombre": "EL FAROLITO",
+                "cp": "47002",
+                "provincia": "Valladolid",
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001857",
+                "telefono_1": "639852901",
+                "direccion": "Calle NU\u00d1EZ DE ARCE 1"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "3577279997e159ae01bdf77e96d9b4078332e789",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002361",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "DOCE DE OCTUBRE  12",
+                "nombre": "FELIX",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "ad0f30d3b76f782238b34147102ada97e169a8c3",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001348",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "VELARDES 1",
+                "nombre": "FERJA",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "d3aacf432c04d1bd94fada46d2577be642cef040",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001347",
+                "municipio": "Valladolid",
+                "telefono_1": "983232099",
+                "direccion": "ZORRILLA, PASEO 99",
+                "nombre": "FERMOSELLE",
+                "cp": "47007",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "1ff011f406c8fed4f14ba652919185797ac4567d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003477",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "MARIANO GARCIA ABRIL 10",
+                "nombre": "FHAN 4",
+                "cp": "47014",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "e12bb3caa063f33e18dad07b449ad8261bdda1a9",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001263",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "FLORES 7",
+                "nombre": "LAS FLORES",
+                "cp": "47005",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "5fb1540bdc59c2937a791a6a4fc91ccdf55b559d",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/002646",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "ANDALUCIA 17",
+                "nombre": "FLORIANO",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "f92f2949b2faa7b8781be3357ba97f7b113610ba",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001680",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SAN VICENTE, PASEO 36",
+                "nombre": "FOCACHA",
+                "cp": "47013",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "7c45e3b7f8886ea78bfe2609bde19dedc0307b05",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/003369",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "SANTUARIO 21",
+                "nombre": "FORUM",
+                "cp": "47002",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        },
+        {
+            "datasetid": "registro-de-turismo-de-castilla-y-leon",
+            "recordid": "1acefba5fbb3afd3522f6f0bbf6ef9a50af128f5",
+            "fields": {
+                "tipo": "Bar",
+                "localidad": "VALLADOLID",
+                "nucleo": "VALLADOLID",
+                "categoria": "Categor\u00eda \u00fanica",
+                "establecimiento": "Bares",
+                "num_registro": "47/001394",
+                "municipio": "Valladolid",
+                "telefono_1": "983000000",
+                "direccion": "TORTOLA 16",
+                "nombre": "FRANCI",
+                "cp": "47012",
+                "provincia": "Valladolid"
+            },
+            "record_timestamp": "2022-01-24T21:00:41.741000+00:00"
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "establecimiento",
+            "facets": [
+                {
+                    "name": "Bares",
+                    "count": 2090,
+                    "state": "refined",
+                    "path": "Bares"
+                }
+            ]
+        },
+        {
+            "name": "provincia",
+            "facets": [
+                {
+                    "name": "Valladolid",
+                    "count": 2090,
+                    "state": "refined",
+                    "path": "Valladolid"
+                }
+            ]
+        },
+        {
+            "name": "municipio",
+            "facets": [
+                {
+                    "name": "Valladolid",
+                    "count": 2090,
+                    "state": "refined",
+                    "path": "Valladolid"
+                }
+            ]
+        }
+    ]
+}
